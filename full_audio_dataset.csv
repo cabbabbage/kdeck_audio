@@ -1,0 +1,186 @@
+Speaker,Start Time,End Time,File Path
+k,0.0,0.09,audio_segments/segment_0.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.01,0.14,audio_segments/segment_1.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.02,0.19999999999999998,audio_segments/segment_2.wav
+k,0.03,0.29000000000000004,audio_segments/segment_3.wav
+k,0.04,0.16,audio_segments/segment_4.wav
+k,0.05,0.49,audio_segments/segment_5.wav
+k,0.06,0.94,audio_segments/segment_6.wav
+k,0.07,0.14,audio_segments/segment_7.wav
+k,0.08,0.27,audio_segments/segment_8.wav
+k,0.09,0.18,audio_segments/segment_9.wav
+k,0.1,0.39,audio_segments/segment_10.wav
+k,0.11,0.2,audio_segments/segment_11.wav
+k,0.12,0.2,audio_segments/segment_12.wav
+k,0.13,0.43,audio_segments/segment_13.wav
+k,0.14,0.55,audio_segments/segment_14.wav
+k,0.15,0.55,audio_segments/segment_15.wav
+k,0.16,0.37,audio_segments/segment_16.wav
+k,0.17,0.5,audio_segments/segment_17.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.18,0.69,audio_segments/segment_18.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.19,0.39,audio_segments/segment_19.wav
+k,0.2,0.52,audio_segments/segment_20.wav
+k,0.21,0.43,audio_segments/segment_21.wav
+k,0.22,0.9099999999999999,audio_segments/segment_22.wav
+c,0.23,0.34,audio_segments/segment_23.wav
+k,0.24,0.4,audio_segments/segment_24.wav
+k,0.25,0.41000000000000003,audio_segments/segment_25.wav
+k,0.26,0.34,audio_segments/segment_26.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.27,0.39,audio_segments/segment_27.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.28,0.39,audio_segments/segment_28.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.29,0.44999999999999996,audio_segments/segment_29.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.3,1.13,audio_segments/segment_30.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.31,0.45,audio_segments/segment_31.wav
+k,0.32,0.39,audio_segments/segment_32.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.33,0.74,audio_segments/segment_33.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,0.34,0.8200000000000001,audio_segments/segment_34.wav
+k,0.35,0.69,audio_segments/segment_35.wav
+c,0.36,0.55,audio_segments/segment_36.wav
+k,0.37,0.6799999999999999,audio_segments/segment_37.wav
+k,0.38,0.5800000000000001,audio_segments/segment_38.wav
+k,0.39,0.56,audio_segments/segment_39.wav
+k,0.4,0.61,audio_segments/segment_40.wav
+k,0.41,0.51,audio_segments/segment_41.wav
+k,0.42,0.56,audio_segments/segment_42.wav
+k,0.43,0.96,audio_segments/segment_43.wav
+k,0.44,0.52,audio_segments/segment_44.wav
+k,0.45,0.63,audio_segments/segment_45.wav
+c,0.46,0.61,audio_segments/segment_46.wav
+c,0.47,0.63,audio_segments/segment_47.wav
+k,0.48,0.55,audio_segments/segment_48.wav
+k,0.49,0.72,audio_segments/segment_49.wav
+c,0.5,0.8,audio_segments/segment_50.wav
+c,0.51,0.8200000000000001,audio_segments/segment_51.wav
+c,0.52,0.8,audio_segments/segment_52.wav
+c,0.53,0.6900000000000001,audio_segments/segment_53.wav
+k,0.54,0.8400000000000001,audio_segments/segment_54.wav
+k,0.55,0.8600000000000001,audio_segments/segment_55.wav
+c,0.56,0.7300000000000001,audio_segments/segment_56.wav
+k,0.57,0.9199999999999999,audio_segments/segment_57.wav
+c,0.58,0.6599999999999999,audio_segments/segment_58.wav
+c,0.59,0.7,audio_segments/segment_59.wav
+c,0.6,0.75,audio_segments/segment_60.wav
+c,0.61,0.89,audio_segments/segment_61.wav
+k,0.62,1.7400000000000002,audio_segments/segment_62.wav
+c,0.63,0.91,audio_segments/segment_63.wav
+k,0.64,1.51,audio_segments/segment_64.wav
+c,0.65,1.02,audio_segments/segment_65.wav
+c,0.66,0.92,audio_segments/segment_66.wav
+c,0.67,0.78,audio_segments/segment_67.wav
+c,0.68,0.75,audio_segments/segment_68.wav
+k,0.69,0.76,audio_segments/segment_69.wav
+c,0.7,0.8999999999999999,audio_segments/segment_70.wav
+k,0.71,1.22,audio_segments/segment_71.wav
+c,0.72,0.9199999999999999,audio_segments/segment_72.wav
+k,0.73,1.07,audio_segments/segment_73.wav
+k,0.74,1.27,audio_segments/segment_74.wav
+k,0.75,1.46,audio_segments/segment_75.wav
+k,0.76,0.97,audio_segments/segment_76.wav
+k,0.77,1.49,audio_segments/segment_77.wav
+c,0.78,1.27,audio_segments/segment_78.wav
+c,0.79,1.03,audio_segments/segment_79.wav
+k,0.8,1.24,audio_segments/segment_80.wav
+k,0.81,1.1400000000000001,audio_segments/segment_81.wav
+k,0.82,1.41,audio_segments/segment_82.wav
+k,0.83,1.63,audio_segments/segment_83.wav
+k,0.84,0.99,audio_segments/segment_84.wav
+c,0.85,1.01,audio_segments/segment_85.wav
+k,0.86,1.3599999999999999,audio_segments/segment_86.wav
+k,0.87,1.33,audio_segments/segment_87.wav
+c,0.88,1.25,audio_segments/segment_88.wav
+c,0.89,1.5899999999999999,audio_segments/segment_89.wav
+k,0.9,1.06,audio_segments/segment_90.wav
+k,0.91,1.55,audio_segments/segment_91.wav
+k,0.92,1.4300000000000002,audio_segments/segment_92.wav
+k,0.93,1.21,audio_segments/segment_93.wav
+k,0.94,1.9,audio_segments/segment_94.wav
+k,0.95,1.35,audio_segments/segment_95.wav
+c,0.96,1.13,audio_segments/segment_96.wav
+c,0.97,1.08,audio_segments/segment_97.wav
+k,0.98,1.5,audio_segments/segment_98.wav
+k,0.99,1.71,audio_segments/segment_99.wav
+k,1.0,1.13,audio_segments/segment_100.wav
+c,1.01,2.1,audio_segments/segment_101.wav
+k,1.02,2.21,audio_segments/segment_102.wav
+k,1.03,1.24,audio_segments/segment_103.wav
+k,1.04,1.37,audio_segments/segment_104.wav
+c,1.05,1.44,audio_segments/segment_105.wav
+k,1.06,1.78,audio_segments/segment_106.wav
+c,1.07,1.56,audio_segments/segment_107.wav
+c,1.08,1.4100000000000001,audio_segments/segment_108.wav
+k,1.09,1.48,audio_segments/segment_109.wav
+k,1.1,1.9900000000000002,audio_segments/segment_110.wav
+k,1.11,1.4300000000000002,audio_segments/segment_111.wav
+k,1.12,1.2300000000000002,audio_segments/segment_112.wav
+k,1.13,1.4,audio_segments/segment_113.wav
+c,1.14,1.48,audio_segments/segment_114.wav
+c,1.15,1.42,audio_segments/segment_115.wav
+c,1.16,1.25,audio_segments/segment_116.wav
+k,1.17,2.23,audio_segments/segment_117.wav
+c,1.18,1.5999999999999999,audio_segments/segment_118.wav
+c,1.19,1.3399999999999999,audio_segments/segment_119.wav
+k,1.2,2.61,audio_segments/segment_120.wav
+k,1.21,1.46,audio_segments/segment_121.wav
+k,1.22,2.8899999999999997,audio_segments/segment_122.wav
+k,1.23,1.9100000000000001,audio_segments/segment_123.wav
+c,1.24,1.6099999999999999,audio_segments/segment_124.wav
+k,1.25,2.41,audio_segments/segment_125.wav
+k,1.26,1.7,audio_segments/segment_126.wav
+k,1.27,1.53,audio_segments/segment_127.wav
+c,1.28,1.5,audio_segments/segment_128.wav
+c,1.29,1.36,audio_segments/segment_129.wav
+k,1.3,1.59,audio_segments/segment_130.wav
+k,1.31,1.57,audio_segments/segment_131.wav
+k,1.32,1.49,audio_segments/segment_132.wav
+k,1.33,1.7000000000000002,audio_segments/segment_133.wav
+k,1.34,2.24,audio_segments/segment_134.wav
+k,1.35,1.83,audio_segments/segment_135.wav
+k,1.36,1.9900000000000002,audio_segments/segment_136.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.37,2.58,audio_segments/segment_137.wav
+k,1.38,1.5699999999999998,audio_segments/segment_138.wav
+k,1.39,1.7999999999999998,audio_segments/segment_139.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.4,1.8499999999999999,audio_segments/segment_140.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.41,1.77,audio_segments/segment_141.wav
+k,1.42,2.0,audio_segments/segment_142.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.43,2.02,audio_segments/segment_143.wav
+k,1.44,1.74,audio_segments/segment_144.wav
+k,1.45,2.92,audio_segments/segment_145.wav
+c,1.46,2.58,audio_segments/segment_146.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.47,3.05,audio_segments/segment_147.wav
+k,1.48,1.56,audio_segments/segment_148.wav
+k,1.49,1.8900000000000001,audio_segments/segment_149.wav
+k,1.5,1.74,audio_segments/segment_150.wav
+k,1.51,2.11,audio_segments/segment_151.wav
+k,1.52,2.0300000000000002,audio_segments/segment_152.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.53,2.7800000000000002,audio_segments/segment_153.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.54,1.77,audio_segments/segment_154.wav
+k,1.55,1.6600000000000001,audio_segments/segment_155.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.56,2.25,audio_segments/segment_156.wav
+k,1.57,1.72,audio_segments/segment_157.wav
+k,1.58,2.02,audio_segments/segment_158.wav
+c,1.59,1.82,audio_segments/segment_159.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.6,2.19,audio_segments/segment_160.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.61,2.17,audio_segments/segment_161.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.62,2.24,audio_segments/segment_162.wav
+k,1.63,1.71,audio_segments/segment_163.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.64,3.51,audio_segments/segment_164.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.65,3.46,audio_segments/segment_165.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.66,1.95,audio_segments/segment_166.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.67,1.74,audio_segments/segment_167.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.68,1.8699999999999999,audio_segments/segment_168.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.69,1.83,audio_segments/segment_169.wav
+c,1.7,1.77,audio_segments/segment_170.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.71,1.9,audio_segments/segment_171.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.72,2.11,audio_segments/segment_172.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.73,1.94,audio_segments/segment_173.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.74,2.1,audio_segments/segment_174.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.75,2.0300000000000002,audio_segments/segment_175.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.76,2.02,audio_segments/segment_176.wav
+k,1.77,1.84,audio_segments/segment_177.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.78,2.16,audio_segments/segment_178.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.79,2.35,audio_segments/segment_179.wav
+k,1.8,1.99,audio_segments/segment_180.wav
+c,1.81,1.94,audio_segments/segment_181.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.82,2.12,audio_segments/segment_182.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.83,3.27,audio_segments/segment_183.wav
+& C:/Users/Cal/miniconda3/python.exe c:/Users/Cal/Documents/adr/script_data.py,1.84,2.0,audio_segments/segment_184.wav
